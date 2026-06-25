@@ -42,3 +42,8 @@ Python · Claude API · Google Docs/Drive API
 
 Built by [Anup Katuwal](https://anupkat.com.np) — data analyst & automation
 engineer. [More projects →](https://github.com/anupkatuwal)
+
+## 🔗 Portfolio
+
+Featured on my portfolio: **[https://anup-katuwal.com.np/projects/upwork-agent](https://anup-katuwal.com.np/projects/upwork-agent)**  
+More of my work → [anup-katuwal.com.np](https://anup-katuwal.com.np)
