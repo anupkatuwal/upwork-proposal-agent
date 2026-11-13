@@ -40,7 +40,7 @@ Python · Claude API · Google Docs/Drive API
 
 ---
 
-Built by [Anup Katuwal](https://anupkat.com.np) — data analyst & automation
+Built by [Anup Katuwal](https://anup-katuwal.com.np) — data analyst & automation
 engineer. [More projects →](https://github.com/anupkatuwal)
 
 ## 🔗 Portfolio
